@@ -1,5 +1,5 @@
 {
-    "name": "BetaBotz",
+    "name": "AETHERZBOTZ",
     "version": "2.0.0",
     "description": "Lightweight WhatsApp Bot",
     "depecrated": false,
@@ -29,7 +29,7 @@
     ],
     "homepage": "https://github.com/ERLANRAHMAT/BETABOTZ-MD2",
     "author": {
-        "name": "BETABOTZ"
+        "name": "AETHERZBOTZ"
     },
     "repository": {
         "type": "git",
